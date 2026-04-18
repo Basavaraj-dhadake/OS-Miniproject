@@ -1,4 +1,4 @@
-# 🚀 OS Jackfruit - Lightweight Container Runtime
+# 🚀 OS Jackfruit - Multi-Container Runtime
 
 ## 📌 Project Overview
 
